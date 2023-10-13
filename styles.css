@@ -154,7 +154,6 @@
     position: absolute;
     width: 24px;
     height: 18px;
-    top: 12px;
     left: 0;
     border-radius: 15px;
   }
@@ -192,6 +191,7 @@
   .header .sign-up-3 {
     position: absolute;
     left: 114px;
+    top: 40px;
     font-family: "DMSans-Bold", Helvetica;
     font-weight: 700;
     color: #1e0e62;
