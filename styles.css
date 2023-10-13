@@ -1,0 +1,355 @@
+* {
+    font-family: "DMSans-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0;
+}
+
+.header {
+    background-color: #2f1893;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .header .div {
+    background-color: rgba(47, 24, 147, 1);
+    width: 1400px;
+    height: 890px;
+    position: relative;
+  }
+  
+  .header .sign-up-form {
+    position: absolute;
+    width: 476px;
+    height: 600px;
+    top: 187px;
+    left: 715px;
+  }
+  
+  .header .overlap-group {
+    position: relative;
+    width: 470px;
+    height: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  
+  .header .text-wrapper {
+    top: 524px;
+    left: 325px;
+    color: #25dac4;
+    line-height: 28px;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .header .do-you-have-an-accou {
+    position: absolute;
+    top: 529px;
+    left: 100px;
+    color: rgba(21, 20, 57, 0.4);
+    text-align: center;
+    white-space: nowrap;
+  }
+  
+  .header .middle-fill {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 449px;
+    left: 70px;
+    background-color: #1da1f2;
+    border-radius: 100px;
+  }
+  
+  .header .sign-up {
+    height: 26px;
+    top: 11px;
+    left: 96px;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    position: absolute;
+    white-space: nowrap;
+  }
+  
+  .header .sign-up-wrapper {
+    width: 330px;
+    height: 50px;
+    top: 338px;
+    left: 70px;
+    background-color: #482be7;
+    position: absolute;
+    border-radius: 100px;
+  }
+  
+  .header .sign-up-2 {
+    position: absolute;
+    height: 26px;
+    top: 11px;
+    left: 137px;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .divider-or {
+    position: absolute;
+    width: 330px;
+    height: 26px;
+    top: 406px;
+    left: 69px;
+  }
+  
+  .header .divider {
+    width: 144px;
+    height: 28px;
+  }
+  
+  .header .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 155px;
+    opacity: 0.9;
+    font-family: "DMSans-Regular", Helvetica;
+    font-weight: 400;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 16px;
+    text-align: center;
+    line-height: 26px;
+    white-space: nowrap;
+    margin: 0;
+  }
+  
+  .header .img {
+    position: absolute;
+    width: 144px;
+    height: 28px;
+    left: 183px;
+  }
+  
+  .header .checkbox-checked {
+    position: absolute;
+    width: 267px;
+    height: 26px;
+    top: 284px;
+    left: 70px;
+  }
+  
+  .header .checked {
+    position: absolute;
+    top: 0;
+    left: 37px;
+    font-family: "DMSans-Regular", Helvetica;
+    font-weight: 400;
+    color: rgba(21, 20, 57, 0.4);
+    font-size: 16px;
+    white-space: nowrap;
+  }
+  
+  .header .on {
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    top: 12px;
+    left: 0;
+    border-radius: 15px;
+  }
+  
+  .header .middle-dark-outline {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 134px;
+    left: 70px;
+    border-radius: 100px;
+    border: 2px solid #ebeaed;
+    background: none;
+    color: rgba(21, 20, 57, 0.4);
+    line-height: 26px;
+    white-space: nowrap;
+    padding: 0 0 0 15px;
+  }
+
+  .header .middle-dark-outline1 {
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    top: 204px;
+    left: 70px;
+    border-radius: 100px;
+    border: 2px solid #ebeaed;
+    background: none;
+    color: rgba(21, 20, 57, 0.4);
+    line-height: 26px;
+    white-space: nowrap;
+    padding: 0 0 0 15px;
+  }
+  
+  .header .sign-up-3 {
+    position: absolute;
+    left: 114px;
+    font-family: "DMSans-Bold", Helvetica;
+    font-weight: 700;
+    color: #1e0e62;
+    font-size: 42px;
+    text-align: center;
+    line-height: 52px;
+    white-space: nowrap;
+  }
+  
+  .header .text {
+    position: absolute;
+    width: 431px;
+    height: 496px;
+    top: 219px;
+    left: 209px;
+  }
+  
+  .header .the-most-important-p {
+    position: absolute;
+    width: 363px;
+    top: 241px;
+    left: 3px;
+    color: #fff;
+    font-size: 22px;
+    line-height: 32px;
+  }
+  
+  .header .div-wrapper {
+    width: 157px;
+    height: 50px;
+    top: 446px;
+    left: 0;
+    background-color: #e93a7d;
+    position: absolute;
+    border-radius: 100px;
+    border: none;
+  }
+  
+  .header .sign-up-4 {
+    position: absolute;
+    height: 26px;
+    top: 11px;
+    left: 31px;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .twenty-five-awesome {
+    position: absolute;
+    width: 424px;
+    top: 219px;
+    left: 212px;
+    font-family:  "DMSans-Bold", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 58px;
+    letter-spacing: -1px;
+    line-height: 70px;
+  }
+  
+  .header .header-menu {
+    position: absolute;
+    width: 972px;
+    height: 40px;
+    top: 65px;
+    left: 277px;
+  }
+  
+  .header .navbar {
+    position: absolute;
+    width: 511px;
+    height: 40px;
+    top: 0;
+    left: 469px;
+  }
+  
+  .header .middle-fill-2 {
+    width: 120px;
+    height: 40px;
+    top: 0;
+    left: 383px;
+    background-color: #e93a7d;
+    position: absolute;
+    border-radius: 100px;
+  }
+  
+  .header .sign-up-5 {
+    position: absolute;
+    height: 26px;
+    top: 6px;
+    left: 21px;
+    color: #fff;
+    text-align: center;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .text-wrapper-3 {
+    left: 265px;
+    position: absolute;
+    top: 7px;
+    color: #fff;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .text-wrapper-4 {
+    left: 196px;
+    position: absolute;
+    top: 7px;
+    color: #fff;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .text-wrapper-5 {
+    left: 113px;
+    position: absolute;
+    top: 7px;
+    color: #fff;
+    white-space: nowrap;
+  }
+  
+  .header .about {
+    left: 0;
+    opacity: 0.3;
+    position: absolute;
+    top: 7px;
+    color: #fff;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .header .white {
+    position: absolute;
+    width: 111px;
+    height: 19px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .header .white-2 {
+    position: relative;
+    height: 19px;
+  }
+  
+  .header .text-wrapper-6 {
+    position: absolute;
+    top: -7px;
+    left: 2px;
+    font-family: "DM Sans", Helvetica;
+    font-weight: 700;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.29px;
+    line-height: normal;
+  }
+  
